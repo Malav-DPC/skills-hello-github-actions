@@ -4,6 +4,10 @@
 
 _Create and run a GitHub Actions workflow._
 
+
+![Rosy00GIF (2)](https://github.com/Malav-DPC/skills-hello-github-actions/assets/171543166/8b18c844-565a-4e66-9fae-95d526475974)
+
+
 </header>
 
 ## Step 5: Trigger the workflow
