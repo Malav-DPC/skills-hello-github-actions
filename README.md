@@ -1,7 +1,6 @@
 <header>
 
-# Hello GitHub Actions ![MuaKissGIF](https://github.com/Malav-DPC/skills-hello-github-actions/assets/171543166/aac89dce-4a0d-44d6-8525-58f9bbcd10ec)
-
+# Hello GitHub Actions 
 
 _Create and run a GitHub Actions workflow._
 
